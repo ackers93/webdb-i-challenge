@@ -16,8 +16,7 @@ WHERE SupplierID = "11";
 
 SELECT *
 FROM [Orders]
-ORDER BY OrderDate desc
-limit 10;
+ORDER BY OrderDate desc limit 10
 
 -- Find all customers that live in London, Madrid, or Brazil
 
